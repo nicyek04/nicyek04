@@ -5,6 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+😍![SoExcited~GIF](https://github.com/nicyek04/nicyek04/assets/148449442/e2265c94-8157-49a8-8dcb-5b72dd01d454)
 
 <!--
 **nicyek04/nicyek04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
